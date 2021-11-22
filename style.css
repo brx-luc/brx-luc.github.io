@@ -1,0 +1,7 @@
+body, html{
+  font-family: 'Open Sans', sans-serif;
+}
+.flexbox{
+  display: flex;
+  flex-direction: row;
+}
